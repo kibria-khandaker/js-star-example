@@ -1,0 +1,42 @@
+body{
+    background: #EEEEEE;
+    margin: 0px;
+    padding: 0px;
+}
+
+.main_div{
+    min-height: 100%;
+    width: 80%;
+    background: #fff;
+    margin: 0 auto;
+    padding: 25px;
+}
+.main_div h1{
+	text-align: center;
+	padding-bottom: 50px;
+}
+.main_div p {
+    /*display: flex;*/
+    display: inline-grid;
+    border-top: 1px solid #e0e0e0;
+    margin: 0px 10px;
+}
+
+p span {
+    font-size: 25px;
+    display: inline-table;
+    border: 1px solid #B0BEC5;
+    background: #E0E0E0;
+    color: #546E7A;
+    text-align: center;
+    padding: 2px 15px;
+}
+
+
+
+
+
+
+
+
+

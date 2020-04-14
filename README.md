@@ -1,8 +1,8 @@
 This javaScripted project By [Kibria Khandaker](http://skillice.com/).
 
-## Available Scripts
+## Available
 
-In the project directory, you can run By Download from your local Browser:
+In the project directory can run By Download from your local Browser:
 
 ### `index.html`
 
@@ -11,13 +11,13 @@ Check for Live Click [skill ice ](http://skillice.com/) to view it in the browse
 
 ### `style.css`
 
-Here is only some style for < p > Tage not effect in js code , even all code style done by js code and all gap space<br />
+Here is only some style for HTML Tage not effect in js code ,  all star ` (*) code ` style done by js code  even all gap/space <br />
 
 ### `star-pattern.js`
 
-it is semple je file and i use it for code but there is no code , i done all code in html file , so it's blank.<br />
+Here is all JavaScript code.<br />
 
 
 ### `My FB` Link
 
-im here here: https://www.facebook.com/amikibria
+im here: https://www.facebook.com/amikibria
